@@ -1,0 +1,14 @@
+C:\Users\b.stockhamer\OneDrive - HTL Vöcklabruck\aoc_2025\Day 1\aoc1\aoc1\bin\Debug\net10.0\aoc1.exe
+C:\Users\b.stockhamer\OneDrive - HTL Vöcklabruck\aoc_2025\Day 1\aoc1\aoc1\bin\Debug\net10.0\aoc1.deps.json
+C:\Users\b.stockhamer\OneDrive - HTL Vöcklabruck\aoc_2025\Day 1\aoc1\aoc1\bin\Debug\net10.0\aoc1.runtimeconfig.json
+C:\Users\b.stockhamer\OneDrive - HTL Vöcklabruck\aoc_2025\Day 1\aoc1\aoc1\bin\Debug\net10.0\aoc1.dll
+C:\Users\b.stockhamer\OneDrive - HTL Vöcklabruck\aoc_2025\Day 1\aoc1\aoc1\bin\Debug\net10.0\aoc1.pdb
+C:\Users\b.stockhamer\OneDrive - HTL Vöcklabruck\aoc_2025\Day 1\aoc1\aoc1\obj\Debug\net10.0\aoc1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b.stockhamer\OneDrive - HTL Vöcklabruck\aoc_2025\Day 1\aoc1\aoc1\obj\Debug\net10.0\aoc1.AssemblyInfoInputs.cache
+C:\Users\b.stockhamer\OneDrive - HTL Vöcklabruck\aoc_2025\Day 1\aoc1\aoc1\obj\Debug\net10.0\aoc1.AssemblyInfo.cs
+C:\Users\b.stockhamer\OneDrive - HTL Vöcklabruck\aoc_2025\Day 1\aoc1\aoc1\obj\Debug\net10.0\aoc1.csproj.CoreCompileInputs.cache
+C:\Users\b.stockhamer\OneDrive - HTL Vöcklabruck\aoc_2025\Day 1\aoc1\aoc1\obj\Debug\net10.0\aoc1.dll
+C:\Users\b.stockhamer\OneDrive - HTL Vöcklabruck\aoc_2025\Day 1\aoc1\aoc1\obj\Debug\net10.0\refint\aoc1.dll
+C:\Users\b.stockhamer\OneDrive - HTL Vöcklabruck\aoc_2025\Day 1\aoc1\aoc1\obj\Debug\net10.0\aoc1.pdb
+C:\Users\b.stockhamer\OneDrive - HTL Vöcklabruck\aoc_2025\Day 1\aoc1\aoc1\obj\Debug\net10.0\aoc1.genruntimeconfig.cache
+C:\Users\b.stockhamer\OneDrive - HTL Vöcklabruck\aoc_2025\Day 1\aoc1\aoc1\obj\Debug\net10.0\ref\aoc1.dll
