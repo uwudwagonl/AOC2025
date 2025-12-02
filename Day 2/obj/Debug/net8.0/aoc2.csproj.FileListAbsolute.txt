@@ -1,0 +1,14 @@
+C:\Users\benja\OneDrive\Desktop\aoc2\bin\Debug\net8.0\aoc2.exe
+C:\Users\benja\OneDrive\Desktop\aoc2\bin\Debug\net8.0\aoc2.deps.json
+C:\Users\benja\OneDrive\Desktop\aoc2\bin\Debug\net8.0\aoc2.runtimeconfig.json
+C:\Users\benja\OneDrive\Desktop\aoc2\bin\Debug\net8.0\aoc2.dll
+C:\Users\benja\OneDrive\Desktop\aoc2\bin\Debug\net8.0\aoc2.pdb
+C:\Users\benja\OneDrive\Desktop\aoc2\obj\Debug\net8.0\aoc2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\OneDrive\Desktop\aoc2\obj\Debug\net8.0\aoc2.AssemblyInfoInputs.cache
+C:\Users\benja\OneDrive\Desktop\aoc2\obj\Debug\net8.0\aoc2.AssemblyInfo.cs
+C:\Users\benja\OneDrive\Desktop\aoc2\obj\Debug\net8.0\aoc2.csproj.CoreCompileInputs.cache
+C:\Users\benja\OneDrive\Desktop\aoc2\obj\Debug\net8.0\aoc2.dll
+C:\Users\benja\OneDrive\Desktop\aoc2\obj\Debug\net8.0\refint\aoc2.dll
+C:\Users\benja\OneDrive\Desktop\aoc2\obj\Debug\net8.0\aoc2.pdb
+C:\Users\benja\OneDrive\Desktop\aoc2\obj\Debug\net8.0\aoc2.genruntimeconfig.cache
+C:\Users\benja\OneDrive\Desktop\aoc2\obj\Debug\net8.0\ref\aoc2.dll
