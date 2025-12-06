@@ -27,7 +27,6 @@ op.AddRange(lines[4].Where(c => !char.IsWhiteSpace(c)));
 //if (val3.Count > 0) val3[0] = 644;
 //if (val4.Count > 0) val4[0] = 392;
 
-// Perform operations based on the operators
 for (int i = 0; i < op.Count; i++)
 {
     if (i < val1.Count && i < val2.Count && i < val3.Count && i < val4.Count)
