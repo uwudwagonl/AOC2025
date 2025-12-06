@@ -29,7 +29,18 @@ for (int col = 0; col < maxWidth; col++)
         problemStart = null;
     }
 }
+<<<<<<< HEAD
 if (problemStart != null)
+=======
+
+op.AddRange(lines[4].Where(c => !char.IsWhiteSpace(c)));
+
+//if (val2.Count > 0) val2[0] = 75;
+//if (val3.Count > 0) val3[0] = 644;
+//if (val4.Count > 0) val4[0] = 392;
+
+for (int i = 0; i < op.Count; i++)
+>>>>>>> 36e2c5063c411541866a168e4286edadef24eb58
 {
     char op = ' ';
     for (int c = problemStart.Value; c < maxWidth; c++)
