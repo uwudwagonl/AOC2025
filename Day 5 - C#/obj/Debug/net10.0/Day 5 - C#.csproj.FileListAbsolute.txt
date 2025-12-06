@@ -1,0 +1,15 @@
+C:\Users\b.stockhamer\OneDrive - HTL Vöcklabruck\AOC2025\Day 5 - C#\bin\Debug\net10.0\Day 5 - C#.exe
+C:\Users\b.stockhamer\OneDrive - HTL Vöcklabruck\AOC2025\Day 5 - C#\bin\Debug\net10.0\Day 5 - C#.deps.json
+C:\Users\b.stockhamer\OneDrive - HTL Vöcklabruck\AOC2025\Day 5 - C#\bin\Debug\net10.0\Day 5 - C#.runtimeconfig.json
+C:\Users\b.stockhamer\OneDrive - HTL Vöcklabruck\AOC2025\Day 5 - C#\bin\Debug\net10.0\Day 5 - C#.dll
+C:\Users\b.stockhamer\OneDrive - HTL Vöcklabruck\AOC2025\Day 5 - C#\bin\Debug\net10.0\Day 5 - C#.pdb
+C:\Users\b.stockhamer\OneDrive - HTL Vöcklabruck\AOC2025\Day 5 - C#\obj\Debug\net10.0\Day 5 - C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b.stockhamer\OneDrive - HTL Vöcklabruck\AOC2025\Day 5 - C#\obj\Debug\net10.0\Day 5 - C#.AssemblyInfoInputs.cache
+C:\Users\b.stockhamer\OneDrive - HTL Vöcklabruck\AOC2025\Day 5 - C#\obj\Debug\net10.0\Day 5 - C#.AssemblyInfo.cs
+C:\Users\b.stockhamer\OneDrive - HTL Vöcklabruck\AOC2025\Day 5 - C#\obj\Debug\net10.0\Day 5 - C#.csproj.CoreCompileInputs.cache
+C:\Users\b.stockhamer\OneDrive - HTL Vöcklabruck\AOC2025\Day 5 - C#\obj\Debug\net10.0\Day 5 - C#.sourcelink.json
+C:\Users\b.stockhamer\OneDrive - HTL Vöcklabruck\AOC2025\Day 5 - C#\obj\Debug\net10.0\Day 5 - C#.dll
+C:\Users\b.stockhamer\OneDrive - HTL Vöcklabruck\AOC2025\Day 5 - C#\obj\Debug\net10.0\refint\Day 5 - C#.dll
+C:\Users\b.stockhamer\OneDrive - HTL Vöcklabruck\AOC2025\Day 5 - C#\obj\Debug\net10.0\Day 5 - C#.pdb
+C:\Users\b.stockhamer\OneDrive - HTL Vöcklabruck\AOC2025\Day 5 - C#\obj\Debug\net10.0\Day 5 - C#.genruntimeconfig.cache
+C:\Users\b.stockhamer\OneDrive - HTL Vöcklabruck\AOC2025\Day 5 - C#\obj\Debug\net10.0\ref\Day 5 - C#.dll
