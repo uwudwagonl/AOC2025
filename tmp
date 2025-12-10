@@ -1,0 +1,22 @@
+var lines = file.Readalllines(fp)
+list lengths;
+foreach(line in lines) {
+	lengths.Add(line.Remove('[').Split(']')[0])
+}
+public int maxLen = lengths.Max()
+class button{
+static int count = maxLen;
+list states;
+list buttons;
+
+foreach(line in lines) {
+states.Add(
+}
+public bool state { get; set; }
+public button{
+	for(int i = 0; i > maxLen; i++){
+		property.Add($"btn{i})
+		property(btn[i]) = null
+	}
+}
+}
