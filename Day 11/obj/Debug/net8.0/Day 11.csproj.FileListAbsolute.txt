@@ -1,0 +1,15 @@
+C:\Users\benja\OneDrive\Desktop\AOC\AOC2025\Day 11\bin\Debug\net8.0\Day 11.exe
+C:\Users\benja\OneDrive\Desktop\AOC\AOC2025\Day 11\bin\Debug\net8.0\Day 11.deps.json
+C:\Users\benja\OneDrive\Desktop\AOC\AOC2025\Day 11\bin\Debug\net8.0\Day 11.runtimeconfig.json
+C:\Users\benja\OneDrive\Desktop\AOC\AOC2025\Day 11\bin\Debug\net8.0\Day 11.dll
+C:\Users\benja\OneDrive\Desktop\AOC\AOC2025\Day 11\bin\Debug\net8.0\Day 11.pdb
+C:\Users\benja\OneDrive\Desktop\AOC\AOC2025\Day 11\obj\Debug\net8.0\Day 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\OneDrive\Desktop\AOC\AOC2025\Day 11\obj\Debug\net8.0\Day 11.AssemblyInfoInputs.cache
+C:\Users\benja\OneDrive\Desktop\AOC\AOC2025\Day 11\obj\Debug\net8.0\Day 11.AssemblyInfo.cs
+C:\Users\benja\OneDrive\Desktop\AOC\AOC2025\Day 11\obj\Debug\net8.0\Day 11.csproj.CoreCompileInputs.cache
+C:\Users\benja\OneDrive\Desktop\AOC\AOC2025\Day 11\obj\Debug\net8.0\Day 11.sourcelink.json
+C:\Users\benja\OneDrive\Desktop\AOC\AOC2025\Day 11\obj\Debug\net8.0\Day 11.dll
+C:\Users\benja\OneDrive\Desktop\AOC\AOC2025\Day 11\obj\Debug\net8.0\refint\Day 11.dll
+C:\Users\benja\OneDrive\Desktop\AOC\AOC2025\Day 11\obj\Debug\net8.0\Day 11.pdb
+C:\Users\benja\OneDrive\Desktop\AOC\AOC2025\Day 11\obj\Debug\net8.0\Day 11.genruntimeconfig.cache
+C:\Users\benja\OneDrive\Desktop\AOC\AOC2025\Day 11\obj\Debug\net8.0\ref\Day 11.dll
